@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Django, React, Computer Vision etc.
 - 📫 How to reach me: zeyu.bai@ucdconnect.ie
 
-<img https://github-readme-stats.vercel.app/api?username=ClarenceWhite&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515>
+<img src="https://github-readme-stats.vercel.app/api?username=ClarenceWhite&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
