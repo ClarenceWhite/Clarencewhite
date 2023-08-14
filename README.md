@@ -1,9 +1,4 @@
 # Hi there 👋, my name is Zeyu Bai (also Clarence White)
-- 🔭 I’m currently studying computer science at University College Dublin
-- 🌱 I’m currently working on software development, which will contain front&back-end developing, machine learning etc.
-- 📫 How to reach me: zeyu.bai@ucdconnect.ie
-
-<img src="https://github-readme-stats.vercel.app/api?username=ClarenceWhite&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 # My Tool box
 
