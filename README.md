@@ -1,4 +1,4 @@
-# Hi there 👋, my name is Zeyu Bai (also Clarence White)
+# Hi there 👋, my name is Zeyu Bai
 
 # My Tool box
 
